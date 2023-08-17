@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import React, { useState } from "react";
 import { SearchIcon , GlobeAltIcon, MenuIcon, UserCircleIcon, UsersIcon} from "@heroicons/react/solid";
 import 'react-date-range/dist/styles.css'; // main style file

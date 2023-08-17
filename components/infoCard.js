@@ -1,6 +1,6 @@
 import { HeartIcon } from '@heroicons/react/outline'
 import { StarIcon } from '@heroicons/react/solid'
-import Image from 'next/image'
+import Image from "next/legacy/image"
 import React from 'react'
 
 export default function InfoCard({img, title, description, location, star, price, total}) {
