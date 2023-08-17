@@ -8,7 +8,7 @@ export default function LargeCard({img, title, description, buttonText,}) {
 				alt="largeCard"
 				src={img}
 				layout="fill"
-				onjectif="cover"
+				objectif="cover"
 				className="rounded-2xl"
 			/>
 		</div>
