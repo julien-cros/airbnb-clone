@@ -13,7 +13,7 @@ export default function Home({ exploreData, cardData }) {
       <Head>
         <title>Airbnb</title>
         <meta name="description" content="genertated by Julien" />
-        <link rel="icon" href="/favicon.ico" />
+        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 		<Header/>
 		<Banner/>

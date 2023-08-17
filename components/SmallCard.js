@@ -6,7 +6,7 @@ export default function SmallCard({img, location, distance}) {
 		hover:bg-gray-100 hover:scale-105 trasition trasform duration-150 ease-out'>
 		<div className='relative h-16 w-16 '>
 			<Image
-				alt='imgCity'
+				alt='SmallCard'
 				src={img}
 				layout='fill'
 				className='rounded-lg'
