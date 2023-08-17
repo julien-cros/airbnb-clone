@@ -30,7 +30,6 @@ export default function InfoCard({img, title, description, location, star, price
 						<StarIcon className='text-red-400 h-5'/>
 						{star}
 					</p>
-
 					<div className=''>
 						<p className='text-lg lg:text-2xl font-semibold pb-2'>{price}</p>
 						<p className='text-right  font-light'>{total}</p>
